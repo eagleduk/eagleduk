@@ -41,15 +41,15 @@ Here are some ideas to get you started:
 <table width="100%">
     <tbody>
         <tr>
-            <th width="33%" align="center">
+            <td width="33%" align="center">
                 Data Structure
-            </th>
-            <th width="33%" align="center">
+            </td>
+            <td width="33%" align="center">
                 Algorithm
-            </th>
-            <th width="33%" align="center"> 
+            </td>
+            <td width="33%" align="center"> 
                 Traning_Tactics
-            </th>
+            </td>
         </tr>
         <tr>
             <td align="center">
@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 <h2> Study Project </h2>
 <table width="100%">
     <tr>
-        <th width="250" align="left">
+        <td width="250" align="left">
             kakao-clone
-        </th>
+        </td>
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
@@ -95,9 +95,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        <th width="250" align="left">
+        <td width="250" align="left">
             youtube-clone
-        </th>
+        </td>
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node" width="30" height="30" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="sass" width="30" height="30" />
@@ -114,9 +114,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        <th width="250" align="left">
+        <td width="250" align="left">
             realtimeNodeJS
-        </th>
+        </td>
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node" width="30" height="30" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="sass" width="30" height="30" />
@@ -130,9 +130,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        <th width="250" align="left">
+        <td width="250" align="left">
             netflix-clone
-        </th>
+        </td>
         <td>
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="30" height="30" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
@@ -144,9 +144,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        <th width="250" align="left">
+        <td width="250" align="left">
             instagram-clone(backend)
-        </th>
+        </td>
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node" width="30" height="30" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="express" width="30" height="30" />
@@ -164,9 +164,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        <th width="250" align="left">
+        <td width="250" align="left">
             instagram-clone(frontend)
-        </th>
+        </td>
         <td>
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="30" height="30" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" alt="graphql" width="30" height="30" />
