@@ -1,0 +1,5 @@
+[github dev icons](https://github.com/devicons/devicon)
+[skill icons](https://skillicons.dev)
+[shields](https://img.shields.io)
+[shields markdown badges](https://github.com/Ileriayo/markdown-badges)
+[github stat](https://github-readme-stats.vercel.app)
