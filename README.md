@@ -21,6 +21,39 @@ Here are some ideas to get you started:
     </h1>
 </p>
 
+<!-- 
+<p>
+    <p>
+        ddd
+    </p>
+    <p>
+        ttr
+    </p>
+</p> -->
+
+<p>
+    <table>
+        <tr>
+            <td>
+                <strong>Developer of</strong>
+            </td>
+            <td>
+                <ul>
+                    <li>
+                        played soccer,
+                    </li>
+                    <li>
+                        slow but do not give up,
+                    </li>
+                    <li>
+                        belive hands and eyes than ears,
+                    </li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</p>
+
 <p>
     <h3 align="center"> 
         Interested Languages, Frameworks
@@ -33,6 +66,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
 </p>
 
 <hr />
@@ -71,6 +105,25 @@ Here are some ideas to get you started:
                     </a>
                 </td>
             </tr>
+            <tr>
+                <td align="center">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                    alt="css3" width="30" height="30" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    alt="javascript" width="30" height="30" />
+                </td>
+                <td align="center">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                    alt="css3" width="30" height="30" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    alt="javascript" width="30" height="30" />
+                </td>
+                <td align="center">
+                    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="30" height="30" />
+                </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -91,7 +144,7 @@ Here are some ideas to get you started:
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="30" height="30" />
                 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
-                alt="javascript" width="30" height="30" />
+                alt="firebase" width="30" height="30" />
             </td>
             <td width="150">
                 <a href="https://github.com/eagleduk/kokoa-clone" target="_blank">
@@ -211,9 +264,6 @@ Here are some ideas to get you started:
         </a>
     </p>
 </details>
-
-<p>
-</p>
 
 <hr />
 <p align="center">
