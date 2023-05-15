@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     </h1>
 </p>
 
-<!-- 
+<!--
 <p>
     <p>
         ddd
@@ -67,6 +67,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="docker"/>
+
 </p>
 
 <hr />
@@ -124,6 +126,23 @@ Here are some ideas to get you started:
                     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="30" height="30" />
                     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
                     alt="firebase" width="30" height="30" />
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://github.com/eagleduk/datastructure" target="_blank">
+                        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/eagleduk/algorithm" target="_blank">
+                        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/eagleduk/Tranining_Tactics" target="_blank">
+                        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
                 </td>
             </tr>
         </tbody>
@@ -264,6 +283,9 @@ Here are some ideas to get you started:
         <a href="https://versed-gymnast-e51.notion.site/React-f5dd742d7bad4d998cd39e2b626c893b">
             <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&label=REACT">
         </a>
+        <a href="https://versed-gymnast-e51.notion.site/Docker-55f1bf78ec434bc49ecf517fbc242f91">
+            <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&label=DOCKER">
+        </a>
     </p>
 </details>
 
@@ -278,6 +300,14 @@ Here are some ideas to get you started:
     <a href="mailTo:eagleduk@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="22" />
     </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feagleduk%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" height="22"/>
+    <a href="https://github.com/eagleduk/" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="22">
+    </a>
+    <!-- <a href="https://www.linkedin.com/in/seung-jin-lee-5995b01b1/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="22">
+    </a> -->
 </p>
 <hr />
+<p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feagleduk%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" height="22"/>
+</p>
