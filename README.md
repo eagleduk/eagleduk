@@ -257,6 +257,20 @@ Here are some ideas to get you started:
                 </a>
             </td>
         </tr>
+        <tr>
+            <td width="250" align="left">
+                Music Video Player
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node" width="30" height="30" />
+                <img src="https://github.com/eagleduk/melonclone/assets/33012310/1112f385-0060-4e9d-9290-f7428c6a7083" alt="cloudtype" width="30" height="30" />
+            </td>
+            <td width="150">
+                <a href="https://github.com/eagleduk/melonclone" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
