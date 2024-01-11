@@ -309,79 +309,89 @@ Here are some ideas to get you started:
     </summary>
     <table>
         <tr>    
-            <td width="300" align="left">
+            <td width="400" align="left">
                 프론트엔드 개발 올인원 패키지 with React Online
             </td>
             <td>
-                <img src="images/fastcampus.svg" height="28"/>
+                <img src="images/fastcampus.svg" alt="fastcampus" width="90" height="28"/>
                 <!-- <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" > -->
             </td>
-            <td width="150">
+            <td>
                 <!-- <a href="https://github.com/eagleduk/100-days-of-web-development" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a> -->
             </td>
         </tr>
         <tr>    
-            <td width="300" align="left">
+            <td width="400" align="left">
                 100일 코딩 챌린지 - Web Development 부트캠프
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                <a href="https://www.udemy.com/certificate/UC-c17f5bdf-3f11-42a1-b84f-32d641a6e27f/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
             </td>
-            <td width="150">
+            <td>
                 <a href="https://github.com/eagleduk/100-days-of-web-development" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a>
             </td>
         </tr>
         <tr>    
-            <td width="300" align="left">
+            <td width="400" align="left">
                 Typescript :기초부터 실천형 프로젝트까지 with React + NodeJS
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                <a href="https://www.udemy.com/certificate/UC-be71a267-82c2-4843-9439-6291e488dc15/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
             </td>
-            <td width="150">
+            <td>
                 <a href="https://github.com/eagleduk/basic-typescript" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a>
             </td>
         </tr>
         <tr>    
-            <td width="300" align="left">
+            <td width="400" align="left">
                 React Query : React로 서버 상태 관리하기
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                <a href="https://www.udemy.com/certificate/UC-b8b99078-e816-4e5a-824f-946566653ce4/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
             </td>
-            <td width="150">
+            <td>
                 <a href="https://github.com/eagleduk/react.query" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a>
             </td>
         </tr>
         <tr>    
-            <td width="300" align="left">
+            <td width="400" align="left">
                 JavaScript 알고리즘 & 자료구조 마스터 클래스
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                <a href="https://www.udemy.com/certificate/UC-804f16d9-6b90-412d-b22b-0fea753cd5bb/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
             </td>
-            <td width="150">
+            <td>
                 <a href="https://github.com/eagleduk/algorithms.datastructures.masterclass" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a>
             </td>
         </tr>
         <tr>    
-            <td width="300" align="left">
+            <td width="400" align="left">
                 TypeScript 마스터 with Webpack & React
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                <a href="https://www.udemy.com/certificate/UC-6f13e34d-45cb-4e29-8d68-b346a41f1d70/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
             </td>
-            <td width="150">
+            <td>
                 <a href="https://github.com/eagleduk/typescript-master" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a>
