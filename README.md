@@ -414,9 +414,9 @@ Here are some ideas to get you started:
     <a href="https://github.com/eagleduk/" target="_blank">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="22">
     </a>
-    <!-- <a href="https://www.linkedin.com/in/seung-jin-lee-5995b01b1/">
+    <a href="https://www.linkedin.com/in/seung-jin-lee-5995b01b1/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="22">
-    </a> -->
+    </a>
 </p>
 <hr />
 <p align="center">
