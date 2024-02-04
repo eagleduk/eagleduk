@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </p>
 </p> -->
 
-<p>
+<!-- <p>
     <table>
         <tr>
             <td>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
             </td>
         </tr>
     </table>
-</p>
+</p> -->
 
 <p>
     <h3 align="center"> 
@@ -73,13 +73,95 @@ Here are some ideas to get you started:
 
 <hr />
 
-<details>
+<details open>
     <summary>
         <h2> Side Projects </h2>
     </summary>
     <table width="100%">
         <tbody>
-            <tr>
+        <tr>
+            <td width="60px" align="center">
+                <a href="https://eagleduk.github.io/datastructure/" target="_blank">
+                    Data Structure
+                </a>
+            </td>
+            <td align="center">
+                <img src="images/structure.png" height="130"/>
+                <!-- <a href="https://eagleduk.github.io/datastructure/" target="_blank">
+                    <img src="images/structure.png" height="130"/>
+                </a> -->
+            </td>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                alt="css3" width="30" height="30" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" width="30" height="30" />
+            </td>
+            <td width="80px" align="center">
+                <a href="https://github.com/eagleduk/datastructure" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+            <td>
+                The operations of basic data structures such as array, queue, stack, linked-list, hash-table, tree, and max-heap are expressed in html, css, and javascript.
+            </td>
+        </tr>
+        <tr>
+            <td width="60px" align="center">
+                <a href="https://eagleduk.github.io/algorithm/" target="_blank">
+                    Algorithm
+                </a>
+            </td>
+            <td align="center">
+                <img src="images/algorithm.png" height="130"/>
+                <!-- <a href="https://eagleduk.github.io/algorithm/" target="_blank">
+                    <img src="images/algorithm.png" height="130"/>
+                </a> -->
+            </td>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+                alt="css3" width="30" height="30" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" width="30" height="30" />
+            </td>
+            <td width="80px" align="center">
+                <a href="https://github.com/eagleduk/algorithm" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+            <td>
+                Expressing the basic operations of sorting (bubble, selection, insertion), search (sequential, binary, depth-first, breadth-first), SPP (dijkstra), and MST (kruskal, prim) algorithms in html, css, and javascript.
+            </td>
+        </tr>
+        <tr>
+            <td width="60px" align="center">
+                <a href="https://eagleduk.github.io/Tranining_Tactics/" target="_blank">
+                    Traning Tactics
+                </a>
+            </td>
+            <td align="center">
+                <img src="images/traning_tactics.png" height="130"/>
+                <!-- <a href="https://eagleduk.github.io/Tranining_Tactics/" target="_blank">
+                    <img src="images/traning_tactics.png" height="130"/>
+                </a> -->
+            </td>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="30" height="30" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
+                alt="firebase" width="30" height="30" />
+            </td>
+            <td width="80px" align="center">
+                <a href="https://github.com/eagleduk/Tranining_Tactics" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+            <td>
+                Tactical board for positioning and role playing. Step-by-step confirmation is possible with the snapshot and playback functions. Mobile-based design allows you to check anytime, anywhere.
+            </td>
+        </tr>
+            <!-- <tr>
                 <td width="33%" align="center">
                     Data Structure
                 </td>
@@ -144,7 +226,7 @@ Here are some ideas to get you started:
                         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </td>
-            </tr>
+            </tr> -->
         </tbody>
     </table>
 </details>
@@ -393,6 +475,21 @@ Here are some ideas to get you started:
             </td>
             <td>
                 <a href="https://github.com/eagleduk/typescript-master" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+        </tr>
+        <tr>    
+            <td width="400" align="left">
+                React 완벽 가이드 with Redux, Next.js, TypeScript 강의
+            </td>
+            <td>
+                <a href="https://www.udemy.com/certificate/UC-40646bd5-5bc7-481a-aaf9-e3690469507c/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/eagleduk/react-perfect-guide" target="_blank">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
                 </a>
             </td>
