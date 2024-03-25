@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 <hr />
 
 <details open>
-    <summary>
-        <h2> Side Projects </h2>
+    <summary style="cursor: pointer;">
+        <span style="font-size: 1.5rem; font-weight: 600;">Side Projects</span>
     </summary>
     <table width="100%">
         <tbody>
@@ -232,8 +232,9 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-    <summary>
-        <h2> Study Project </h2>
+    <summary  style="cursor: pointer">
+        <span style="font-size: 1.5rem; font-weight: 600;">Study Project</span>
+        <!-- <h2> Study Project </h2> -->
     </summary>
     <table width="100%">
         <tr>
@@ -357,8 +358,9 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-    <summary>
-        <h2> Notes </h2>
+    <summary style="cursor: pointer;">
+        <span style="font-size: 1.5rem; font-weight: 600;">Notes</span>
+        <!-- <h2> Notes </h2> -->
     </summary>
     <p>
         <a href="https://github.com/eagleduk/HTML">
@@ -386,8 +388,9 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-    <summary>
-        <h2> Certificate </h2>
+    <summary style="cursor: pointer">
+        <span style="font-size: 1.5rem; font-weight: 600;">Certificate</span>
+        <!-- <h2> Certificate </h2> -->
     </summary>
     <table>
         <tr>    
