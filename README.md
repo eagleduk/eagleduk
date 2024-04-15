@@ -497,6 +497,21 @@ Here are some ideas to get you started:
                 </a>
             </td>
         </tr>
+        <tr>    
+            <td width="400" align="left">
+                Next.js & React - 완벽 정복 가이드
+            </td>
+            <td>
+                <a href="https://www.udemy.com/certificate/UC-ab94876e-bb89-4dab-aebd-cfa98af7bc6e/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/eagleduk/nextJS_firstclass" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
