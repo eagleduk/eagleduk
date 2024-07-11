@@ -512,6 +512,21 @@ Here are some ideas to get you started:
                 </a>
             </td>
         </tr>
+        <tr>    
+            <td width="400" align="left">
+                Git & Github 실무 활용 완벽 가이드
+            </td>
+            <td>
+                <a href="https://www.udemy.com/certificate/UC-b42ed2c4-6957-47b5-aad6-71af051ef18e/">
+                    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" width="90" height="28" />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/eagleduk/best-git-guide" target="_blank">
+                    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
