@@ -514,6 +514,16 @@ Here are some ideas to get you started:
         </tr>
         <tr>    
             <td width="400" align="left">
+                AI 엔지니어 기초 다지기 : 부스트캠프 AI Tech 준비과정
+            </td>
+            <td>
+                <a href="http://www.boostcourse.org/certificate/A20240711-166268?langCode=ko">
+                    <img src="https://ssl.pstatic.net/static/m/mooc/p/partner/boostcrs/new_boostcourse_24.svg"  style="background-color: white;padding: 0 2px" alt="naverconnect" width="90" height="28" />
+                </a>
+            </td>
+        </tr>
+        <tr>    
+            <td width="400" align="left">
                 Git & Github 실무 활용 완벽 가이드
             </td>
             <td>
